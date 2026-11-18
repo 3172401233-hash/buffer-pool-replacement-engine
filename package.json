@@ -1,0 +1,14 @@
+{
+  "name": "buffer-pool-replacement-engine",
+  "version": "1.0.0",
+  "description": "JavaScript 数据库缓冲池管理库：页淘汰、pin 计数、脏页回写与并发读取",
+  "type": "module",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "node --test"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "license": "MIT"
+}
